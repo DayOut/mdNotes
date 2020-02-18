@@ -1,6 +1,6 @@
 #Elastic Search 
 
-- [Server configuration](https://github.com/Smile-SA/elasticsuite/wiki/ServerConfig-6.x "Server configuration")
+  - [Server configuration](https://github.com/Smile-SA/elasticsuite/wiki/ServerConfig-6.x "Server configuration")
 - [Module configuration](https://github.com/Smile-SA/elasticsuite/wiki/ModuleInstall "Module configuration")
 
 Check status of elastic on server `curl "localhost:9200/_cluster/health"`
