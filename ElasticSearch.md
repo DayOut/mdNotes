@@ -7,7 +7,7 @@
 Хороший вводный видеокурс на русском языке (суммарно минут 40): 
 [Elastic Search от Live coding school](https://www.youtube.com/watch?v=qDt70R4i3wk&list=PLdpb__6uY73kCu4eG9IolmhkBmNgyRL-i&index=1 "Elastic Search от Live coding school")
 
-- [Server configuration](https://github.com/Smile-SA/elasticsuite/wiki/ServerConfig-6.x "Server configuration")
+  - [Server configuration](https://github.com/Smile-SA/elasticsuite/wiki/ServerConfig-6.x "Server configuration")
 - [Module configuration](https://github.com/Smile-SA/elasticsuite/wiki/ModuleInstall "Module configuration")
 
 Check status of elastic on server `curl "localhost:9200/_cluster/health"`
